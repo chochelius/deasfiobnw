@@ -1,0 +1,19 @@
+{
+  "name": "desafio_blackandwhite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jimp.js",
+  "scripts": {
+    "dev": "nodemon jimp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "child_process": "^1.0.2",
+    "jimp": "^0.16.1",
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.1"
+  }
+}
